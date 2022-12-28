@@ -231,7 +231,7 @@ if __name__ == "__main__":
 
 - And the Runge-Kutta result:
 
-![img](./rk.png)
+![img](https://github.com/LeBronLiHD/NTU_Enzyme_Kinetics/blob/main/result.png)
 
 ## 8.3
 
