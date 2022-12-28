@@ -172,12 +172,8 @@ class RK(Data):
     def update(self):
         # update P and E
         for i in range(1, self.n + 1):
-            self.p.append(
-                self.s[0] - (self.es[i] + self.s[i])
-            )
-            self.e.append(
-                self.e[0] - self.es[i]
-            )
+            self.p.append(self.s[0] - (self.es[i] + self.s[i]))
+            self.e.append(self.e[0] - self.es[i])
 
     def plot(self):
         names = ["ES", "S", "P", "E"]
