@@ -71,12 +71,8 @@ $$
 &\frac{d P}{d t}=k_3 E S = -\frac{d E S}{d t} - \frac{d S}{d t}\\\\
 \Rightarrow \quad & P(t) - P_0 = -(ES(t) -ES_0) - (S(t)- S_0)\\\\
 \Rightarrow \quad &
-\left\{
-\begin{aligned}
-P(t) &= S_0 - (ES(t) + S(t))\\\\
-S(t) &= S_0 - (ES(t) + P(t))
-\end{aligned}
-\right.
+P(t) = S_0 - (ES(t) + S(t))\\\\
+\text{and}\quad & S(t) = S_0 - (ES(t) + P(t))
 \end{aligned}
 $$
 
