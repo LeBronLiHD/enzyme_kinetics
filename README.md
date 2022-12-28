@@ -86,7 +86,7 @@ $$
 \end{aligned}
 $$
 
-- Now we know that for two general 1st order ODE's:
+- Now we know that for two general 1st order ODEs:
 
 $$
 \begin{aligned}
@@ -95,7 +95,7 @@ $$
 \end{aligned}
 $$
 
-- The 4th order Runge-Kutta formula's for a system of 2 ODE's are:
+- The 4th order Runge-Kutta formula's for a system of 2 ODEs are:
 
 $$
 \begin{aligned}
